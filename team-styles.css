@@ -1,0 +1,62 @@
+body{
+	background-color: black;
+	color: white;
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.card 
+
+#Ayushman-pic{
+	height: 250px; 
+    width: 300px;
+    padding-left: 50px;
+    padding-bottom: 15px;
+}
+
+#Rushiel-pic{
+	height: 250px; 
+    width: 300px;
+    padding-left: 30px;
+    padding-bottom: 15px;
+
+}
+
+#Gurnoor-pic{
+    height: 270px; 
+    width: 300px;
+}
+
+a{
+	text-decoration-style: none;
+}
+
+
+h3{
+	color: black;
+}
+
+#Ayushman{
+    text-align: center;
+    display: inline;
+}
+
+#Rushiel{
+    text-align: center;
+    display: inline;
+}
+
+#gurnoor{
+    text-align: center;
+    display: inline;
+}
+
+.btn{
+    padding-top: 100000px;
+}
